@@ -1,13 +1,14 @@
 # *Conceptos de la Nube:*
 
 ## **Nube Publica**
-- El proveedor del servicio en la nube es el responsable de todo el trabajo de administración y mantenimiento del sistema, escabilidad casi infinita (Red Pública y disponible para quien sea)
->- ### **Saas**
->- Software Completo creado por alguien más (uber, drive) (Software como Servicio)
->- ### **Paas**
->- Tu propio Software (tu te haces cargo del código) (Plataforma como Servicio)
->- ### **Iaas**
->- Tu te haces cargo de todo, solo te dan lo que requieras.(Infraestructura como Servicio)
+El proveedor del servicio en la nube es el responsable de todo el trabajo de administración y mantenimiento del sistema, escabilidad casi infinita (Red Pública y disponible para quien sea)
+>Tipos>
+> ### **Saas**
+> Software Completo creado por alguien más (uber, drive) (Software como Servicio)
+> ### **Paas**
+> Tu propio Software (tu te haces cargo del código) (Plataforma como Servicio)
+> ### **Iaas**
+> Tu te haces cargo de todo, solo te dan lo que requieras.(Infraestructura como Servicio)
 ## **Nube Hibrida**
 - Combinacion de Privada y Publica (Comparte datos y aplicaciones entre ellas)
 ## **Nube Privada**
