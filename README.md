@@ -23,6 +23,12 @@
 ## **Blob**
 ## **Keras**
 ## **CapEx**
--Capital Expenditure (Compra del Equipo, Servidores, Infraestructura)
+-Capital Expenditure (Compra del Equipo, Servidores, Infraestructura) (Gasto Inicial)
 ## **OpEx**
 -Operational Expenditure (Gasto de Operaciones, Gasto para funcionar)
+## **Escalabilidad Horizontal**
+-Incremento de Ram/CPU al recurso
+## **Escalabilidad Vertical**
+-Replicas de los Recursos
+## **Nivel de Servicio (SLA)**
+Días derecho(posibles) de falla de tu nube.
