@@ -21,6 +21,7 @@
 - Conjunto de Servidores unidos normalmente por una red de alta velocidad
 ## **Blockchain**
 ## **Blob**
+- Archivo binario de gran tamaño. Ej. series televisivas, datos masivos
 ## **Keras**
 ## **CapEx**
 -Capital Expenditure (Compra del Equipo, Servidores, Infraestructura) (Gasto Inicial)
