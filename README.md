@@ -44,3 +44,5 @@ Libro de acontecimientos digitales que permite la trasnferencia de datos sin nec
 
 >### *Asi lucen "las nubes"* :
 >- [Nube IBM](https://www.youtube.com/watch?v=HkIJTyjE4zo).
+
+![Intento fallido de imagen:(](/images/nube.jpg "imagen de nube")
