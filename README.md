@@ -50,3 +50,6 @@ Libro de acontecimientos digitales que permite la trasnferencia de datos sin nec
 -Todo lo que observa el usuario, la interfaz, las animaciones. Cuenta con solo un lenguaje de programación Javascript. Pero varias tecnologías.
 ## Backend
 -Son las reglas del negocio, bases de datos, los servidores. Cuenta con muchos lenguajes de programación.
+## API 
+Es la conexión entre dos cosas que no se conocen, más en específico la comunicación entre backend y frontend.
+##
