@@ -48,5 +48,5 @@ Libro de acontecimientos digitales que permite la trasnferencia de datos sin nec
 ![Intento fallido de imagen:(](/images/nube2.png "imagen de nube")
 ### **Frontend**
 -Todo lo que observa el usuario, la interfaz, las animaciones. Cuenta con solo un lenguaje de programación Javascript. Pero varias tecnologías.
-### ** Backend **
+###  Backend
 -Son las reglas del negocio, bases de datos, los servidores. Cuenta con muchos lenguajes de programación.
